@@ -1,5 +1,5 @@
-### HTML, CSS, JS for develop frontend
-### Nodejs, Expressjs, Mysql, MAMP and Postman for develop backend
+### HTML, CSS, and JS for frontend development
+### Nodejs, Expressjs, Mysql, MAMP, and Postman for backend development
 -------------------------------------------------------------------
 
-### Include Nodemon. you can use ```npx nodemon index.js``` in server folder to run server (don't forget to start server in MAMP)
+### Include Nodemon. you can use ```npx nodemon index.js``` in the server folder to run the server (don't forget to start the server in MAMP)
